@@ -11,7 +11,6 @@
 3. Insesrtion Sort
 4. Merge Sort
 5. Quick Sort
-6. Heap Sort
 
 
 
