@@ -1,7 +1,6 @@
 # 그래프 탐색 (Graph Traversal / Search)
 > 19-03-18 (월)
-
-작성자: <a href="https://github.com/jinnyy">@jinnyy</a>
+<a href="https://github.com/jinnyy">@jinnyy</a>
 
 
 <br>
