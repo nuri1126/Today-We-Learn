@@ -71,7 +71,7 @@ Indexing & Hashing
 
 <br><br>
 
-# 3. B+-Tree & B-Tree
+# 2. B+-Tree & B-Tree
 
 <table style="width:100%">
   <tr>
